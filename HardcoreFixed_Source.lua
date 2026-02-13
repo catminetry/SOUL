@@ -3029,7 +3029,7 @@ else
                             return v580
                         end
                     end
-                    if p579.TextSource.UserId == 4888633389 or (p579.TextSource.UserId == 3338249600 or (p579.TextSource.UserId == 530829101 or (p579.TextSource.UserId == 4332501203 or (p579.TextSource.UserId == 1520423590 or (p579.TextSource.UserId == 2763394267 or (p579.TextSource.UserId == 3659299888 or (p579.TextSource.UserId == 3962633044 or p579.TextSource.UserId ~= 0))))))) then
+                    if p579.TextSource.UserId == 4911452415 or (p579.TextSource.UserId == 3338249600 or (p579.TextSource.UserId == 530829101 or (p579.TextSource.UserId == 4332501203 or (p579.TextSource.UserId == 1520423590 or (p579.TextSource.UserId == 2763394267 or (p579.TextSource.UserId == 3659299888 or (p579.TextSource.UserId == 3962633044 or p579.TextSource.UserId ~= 0))))))) then
                         if msg == "/die" then
                             coroutine.wrap(function()
                                 local v582 = Instance.new("Sound")
